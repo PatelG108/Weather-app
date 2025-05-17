@@ -8,7 +8,7 @@ from kivy.core.window import Window
 Window.size = (350, 700)
 
 class WeatherApp(MDApp):
-    api_key = "c5561ae12e39387ff95d4d25e88eb071" # OpenWeatherMap API key
+    api_key = "paste your api here" # OpenWeatherMap API key
 
     def on_start(self): 
         try:
