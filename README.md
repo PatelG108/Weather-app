@@ -21,7 +21,11 @@ A **Weather Application** with an attractive UI built using **Python** and **Kiv
   - `datetime` – for formatting time and date
   - `BeautifulSoup` - for parsing HTML and XML documents.
 
-
+## Samples
+![Weather App Screenshot](assets/screenshot1.png)
+![Weather App Screenshot](assets/screenshot2.png)
+![Weather App Screenshot](assets/screenshot3.png)
+![Weather App Screenshot](assets/screenshot4.png)
 
 ### Prerequisites
 
