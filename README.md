@@ -20,10 +20,8 @@ A **Weather Application** with an attractive UI built using **Python** and **Kiv
   - `requests` – for making API calls
   - `datetime` – for formatting time and date
   - `BeautifulSoup` - for parsing HTML and XML documents.
-  - (Add more if applicable)
 
 
-## Getting Started
 
 ### Prerequisites
 
